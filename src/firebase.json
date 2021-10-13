@@ -1,0 +1,14 @@
+{
+    "hosting":{
+        "rewrites": [ {
+            "source": "**",
+            "destination": "/index.html"
+          } ],
+        "publick":"build",
+        "ignor":[
+            "firenase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ]
+    }
+}
