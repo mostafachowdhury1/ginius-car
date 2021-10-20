@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkslategrey;
+    height:100%;
+}
+
+.footer ul li {
+    list-style: none;
+    color:white;
+}
+
+
+h6{
+    color:darkorange;
+    text-transform: capitalize;
+}
+
+h3{
+    text-transform: capitalize;
+    border-bottom: 2px solid black;
+    display: block;
+    width:100%;
+}

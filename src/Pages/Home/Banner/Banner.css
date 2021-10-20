@@ -1,0 +1,15 @@
+.home{
+   background: url('../../../images/corosel-banner/national-cancer-institute-701-FJcjLAQ-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.health{
+   
+}
